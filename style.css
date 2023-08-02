@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "montserrat";
+    font-family: "a";
     color: #fff;
 }
 
@@ -10,6 +10,16 @@ html,
 body {
     width: 100%;
     height: 100%;
+}
+
+@font-face {
+    font-family: a;
+    src: url(./Montserrat-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: b;
+    src: url(./Gilroy-Light.otf);
 }
 
 #cursor {
@@ -145,7 +155,7 @@ video {
 
 #scroller h4 {
     display: inline-block;
-    font-family: "gilroy";
+    font-family: "b";
     font-weight: 900;
     font-size: 120px;
     text-transform: uppercase;
@@ -375,7 +385,7 @@ video {
     position: absolute;
     top: -45%;
     font-weight: 900;
-    font-family: gilroy;
+    font-family: "b";
     color: #000;
     -webkit-text-stroke: 2px #fff;
   }
