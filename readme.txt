@@ -1,4 +1,4 @@
-https://moneyishh.github.io/day1/
+https://moneyishh.github.io/day1.github.io/
 
 Day 1:
 -Made the replica of site: https://sidcupfamilygolf.com/
